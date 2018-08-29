@@ -73,3 +73,5 @@ lib/lufa/Projects/LEDNotifier/CPUUsageApp/obj/Debug/CPUMonitor.csprojResolveAsse
 lib/lufa/Projects/LEDNotifier/LEDMixerApp/obj/Debug/LEDMixer.csproj.CoreCompileInputs.cache
 lib/lufa/Projects/TempDataLogger/TempLogHostApp/obj/Debug/TempLoggerHostApp.csproj.CoreCompileInputs.cache
 lib/lufa/Projects/TempDataLogger/TempLogHostApp/obj/Debug/TempLoggerHostApp.csprojResolveAssemblyReference.cache
+lib/lufa/Projects/LEDNotifier/CPUUsageApp/obj/Debug/CPUMonitor.csprojAssemblyReference.cache
+lib/lufa/Projects/TempDataLogger/TempLogHostApp/obj/Debug/TempLoggerHostApp.csprojAssemblyReference.cache
